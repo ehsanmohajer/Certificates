@@ -1,3 +1,5 @@
+![mypic](Screenshot 2025-02-11 090916.png "Ehsan Mohajer")
+
 # 🎉 New Certification Alert! 🚀  
 
 I’m excited to share that I have successfully completed the **Elements of AI** course by **Aalto University & the University of Helsinki**! 🏆 This course provided me with a solid foundation in artificial intelligence, covering both theoretical concepts and practical applications.  
