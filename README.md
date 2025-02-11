@@ -1,4 +1,4 @@
-![mypic](/Screenshot 2025-02-11 090916.png "Ehsan Mohajer")
+![Certificate Screenshot](Screenshot%202025-02-11%20090916.png)
 
 # 🎉 New Certification Alert! 🚀  
 
