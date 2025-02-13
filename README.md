@@ -1,5 +1,5 @@
+![Certificate Screenshot](Screenshot%202025-02-13%20114943.png)
 ![Certificate Screenshot](Screenshot%202025-02-11%20090916.png)
-
 # 🎉 New Certification Alert! 🚀  
 
 I’m excited to share that I have successfully completed the **Elements of AI** course by **Aalto University & the University of Helsinki**! 🏆 This course provided me with a solid foundation in artificial intelligence, covering both theoretical concepts and practical applications.  
